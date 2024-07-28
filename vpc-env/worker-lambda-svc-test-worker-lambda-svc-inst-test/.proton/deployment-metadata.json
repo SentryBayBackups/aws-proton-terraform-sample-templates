@@ -1,6 +1,6 @@
 {
-  "deploymentId" : "0e4cf944-b39a-4d9c-8b0e-10a07d0b4cd3",
-  "isResourceDeleted" : false,
+  "deploymentId" : "<proton-resource-deleted>",
+  "isResourceDeleted" : true,
   "resourceMetadata" : {
     "arn" : "arn:aws:proton:eu-west-2:730335384673:service/worker-lambda-svc-test/service-instance/worker-lambda-svc-inst-test",
     "templateArn" : "arn:aws:proton:eu-west-2:730335384673:service-template/worker-lambda-svc",

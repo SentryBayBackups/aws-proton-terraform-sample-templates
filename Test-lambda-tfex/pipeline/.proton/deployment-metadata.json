@@ -1,0 +1,10 @@
+{
+  "deploymentId" : "71ee5f1e-ad1d-4d5b-8cee-2d2e710032f0",
+  "isResourceDeleted" : false,
+  "resourceMetadata" : {
+    "arn" : "arn:aws:proton:eu-west-2:730335384673:service/Test-lambda-tfex/pipeline",
+    "templateArn" : "arn:aws:proton:eu-west-2:730335384673:service-template/worker-lambda-svc",
+    "templateMajorVersion" : "1",
+    "templateMinorVersion" : "0"
+  }
+}

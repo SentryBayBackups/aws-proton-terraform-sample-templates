@@ -1,6 +1,6 @@
 {
-  "deploymentId" : "7d865955-ddb3-4277-89dc-938837a75956",
-  "isResourceDeleted" : false,
+  "deploymentId" : "<proton-resource-deleted>",
+  "isResourceDeleted" : true,
   "resourceMetadata" : {
     "arn" : "arn:aws:proton:eu-west-2:730335384673:service/Test-lambda-tfex/service-instance/Test-lambda-tfex-instance1",
     "templateArn" : "arn:aws:proton:eu-west-2:730335384673:service-template/worker-lambda-svc",

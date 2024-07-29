@@ -1,0 +1,10 @@
+{
+  "deploymentId" : "c4e0daf8-fe04-44e5-a830-bf7dba8c7817",
+  "isResourceDeleted" : false,
+  "resourceMetadata" : {
+    "arn" : "arn:aws:proton:eu-west-2:730335384673:service/worker-lambda-svc-test/pipeline",
+    "templateArn" : "arn:aws:proton:eu-west-2:730335384673:service-template/worker-lambda-svc",
+    "templateMajorVersion" : "1",
+    "templateMinorVersion" : "0"
+  }
+}
